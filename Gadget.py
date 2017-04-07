@@ -1,5 +1,6 @@
 class Gadget:
-    """A class used for modelling Gadgets in a web shop."""
+    """A class used for modelling Gadgets in a web shop.."""
+    """meant to bring more understanding to python classes"""
     __weight = 100
     __operating_system = None
     __battery_capacity = 2000
